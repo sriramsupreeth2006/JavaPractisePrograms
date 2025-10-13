@@ -1,0 +1,2 @@
+Files in Java are seriously good!!
+Java is faster in executing programs than Python.
