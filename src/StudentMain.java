@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Student {
     private String id, name, branch;
     private char gender;
